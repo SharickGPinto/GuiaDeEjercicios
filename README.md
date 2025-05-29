@@ -11,3 +11,5 @@ Parte técnica o de fuerza: ...
 WOD (Workout of the Day):
 # INSTRUCCIONES 
 incorpora un amplio rango de equipamiento de fuerza, cardio, pliométricos y gimnasio. Un mismo entrenamiento puede incluir máquinas de remo, barras de halterofilia y discos, cajas pliométricas, mancuernas, comba de saltar, cuerda para trepar y un rack para dominadas y otros movimientos.
+# CONSEJOS Y PRECAUCIONES 
+Es mejor realizar una versión a escala con la técnica correcta que arriesgarte a lesionarte intentando movimientos que superan tus capacidades. Mantente hidratado y con energía: Una hidratación y una nutrición adecuadas son vitales para un rendimiento y una recuperación óptimos en CrossFit.
