@@ -10,3 +10,7 @@ Reducción del estrés: El ambiente acuático tiene un efecto relajante.
 Técnica adecuada: Aprende y practica los estilos básicos como crol, espalda, pecho y mariposa.
 Respiración: Coordina la respiración con los movimientos para mejorar la eficiencia.
 Seguridad: Nunca nades solo en áreas sin supervisión y utiliza equipo de flotación si es necesario. 
+# Consejos
+Calentamiento y enfriamiento: Realiza ejercicios de calentamiento antes de nadar y estiramientos después.
+ Hidratación: Aunque estés en el agua, es importante mantenerse hidratado.
+Consistencia: Nada regularmente para obtener los máximos beneficios.
