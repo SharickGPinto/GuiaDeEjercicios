@@ -47,3 +47,5 @@ Entrenamiento: Realizar un entrenamiento regular que incluya cardio, fuerza y t�
 Nutrición: Mantener una dieta equilibrada y saludable para tener energía y recuperarse.
 Descanso: Dormir lo suficiente para permitir que el cuerpo se recupere.
 Escuchar al entrenador: Siguiendo las instrucciones del entrenador, se puede mejorar la técnica y la estrategia. 
+# CONSEJOS Y PRECAUSIONES 
+Mantén la guardia alta, con codos pegados al cuerpo y manos protegiendo la cara. El equilibrio y la postura correctos son fundamentales para una buena defensa y ataque. Asegúrate de usar el equipo adecuado, como guantes bien acolchados y protectores bucales. Además, es vital hidratar tu nariz para prevenir sangrados y lesiones.
