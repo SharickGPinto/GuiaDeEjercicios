@@ -6,4 +6,3 @@ Ayuda a mejorar el rendimiento físico, reducir el riesgo de lesiones y mejorar 
 Realizar ejercicios de estiramiento regularmente, manteniendo la postura durante 30 segundos y repitiendo cada estiramiento de 2 a 4 veces
 # CONSEJOS 
  es crucial estirar regularmente, calentar antes de estirar, respirar profundamente y evitar dolor. La flexibilidad se puede mejorar con estiramientos estáticos y dinámicos, practicados al menos dos o tres veces por semana, manteniendo cada estiramiento durante 15-30 segundos sin forzar las articulaciones
- 
