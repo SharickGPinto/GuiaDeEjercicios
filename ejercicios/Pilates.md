@@ -1,1 +1,2 @@
 # PILATES
+El pilates es un método de entrenamiento físico y mental que se centra en fortalecer el “core” (zona abdominal y lumbar), mejorar la postura y aumentar la flexibilidad. Combina ejercicios de bajo impacto con una respiración controlada y movimientos precisos.
