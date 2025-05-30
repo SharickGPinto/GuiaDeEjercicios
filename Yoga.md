@@ -10,3 +10,7 @@ Mejora de la salud cerebral: Estudios sugieren que puede tener efectos positivos
 Tipos de yoga: Explora diferentes estilos como Hatha, Vinyasa, Ashtanga o Kundalini para encontrar el que mejor se adapte a ti.
 Posturas básicas: Aprende asanas fundamentales como la montaña, el perro hacia abajo y la cobra.
 Respiración y meditación: Incorpora técnicas de respiración y momentos de meditación en tu práctica.
+# Consejos
+Ambiente adecuado: Practica en un espacio tranquilo y cómodo.
+Regularidad: La práctica constante es clave para experimentar los beneficios del yoga.
+Escucha a tu cuerpo: Adapta las posturas según tus capacidades y evita forzar movimientos.
